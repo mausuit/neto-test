@@ -1,0 +1,7 @@
+Tempo para estudar APIs, Flash Builder e desenvolver
+[20 horas]
+
+
+Faltantes
+Loader principal. Não soube como compilar outro swf desde o FBuilder
+Carregando o pleyer do youtube nao soube como adicionar os controles
